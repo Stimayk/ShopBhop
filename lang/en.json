@@ -1,0 +1,6 @@
+{
+	"Cooldown":"{orange}[BHOP]{white} Bunnyhop disabled, recharge: {red}{0} seconds!", // Cooldown time.
+	"MaxJumps": "{orange}[BHOP]{white} Bunnyhop enabled, {green}{0} jumps available!", // {0} - number of available jumps.
+	"TimeToActivation" : "{orange}[BHOP]{white} The bunnyhop will be active in {red}{0} seconds", // {0} - time of bhop activation taking into account the round's freespeed (if the cooldown is 0, it is not displayed).
+	"BhopTurnOnNextRound" : "{orange}[BHOP]{white} Bunnyhop {green}will activate {white} in the next round!"
+}
