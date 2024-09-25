@@ -46,7 +46,7 @@ namespace ShopBhop
         {
             if (JsonBhop == null || SHOP_API == null) return;
 
-            SHOP_API.CreateCategory(CategoryName, "Αυξο");
+            SHOP_API.CreateCategory(CategoryName, "Π‘Ρ…ΠΎΠΏ");
 
             foreach (var item in JsonBhop.Properties().Where(p => p.Value is JObject))
             {
